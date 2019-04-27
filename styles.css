@@ -86,14 +86,14 @@ p {
 
 
 footer {
-    font-size: 10px;
+    font-size: 12px;
     text-align: center;
     color: #cccccc;
     background-color: #777777;
     width: 100%;
     border-top: 8px solid teal;
     margin-top: 80px;
-    padding-top: 30px;
+    padding-top: 10px;
     padding-bottom: 5px; 
     position: fixed;
     bottom: 0;
