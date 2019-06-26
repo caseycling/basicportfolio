@@ -184,6 +184,16 @@ textarea {
     bottom: 50px;
 }
 
+.githubHref {
+    font-size: 12px;
+    color: white;
+}
+
+.githubFooter {
+    color: #cccccc;
+    text-decoration: none;
+}
+
 
 /* #snowboard {
     height: 160px;
